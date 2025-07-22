@@ -7,7 +7,7 @@
             "Year": "1913",
             "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
             "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
+            "image": "public/cars/1950 Mercury Eight V8.jpeg",
             "price": "$220,086"
         },
         {
@@ -17,7 +17,7 @@
             "Year": "2003",
             "Engine": "3-phase AC induction motor",
             "Transmission": "1-speed fixed gear ratio (9.734:1 or 9.325:1); direct-drive",
-            "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2800,c_fit,f_auto,q_auto:best/Model-S-Performance-Hero-Desktop-LHD",
+            "image": "public/cars/tesla.jpeg",
             "price": "$90,130"
         },
         {
@@ -27,7 +27,7 @@
             "Year": "1922",
             "Engine": "supercharged 550-hp V-8 engine",
             "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2023-jaguar-f-pace-svr-bespoke-101-1654011454-brightened-1656101872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "image": "public/cars/jaguar.jpeg",
             "price": "$90,650"
         },
         {
@@ -37,7 +37,7 @@
             "Year": "1913",
             "Engine": "483-hp twin-turbocharged 3.0-liter V-6.",
             "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-maserati-granturismo-trofeo-104-1664572237.jpg?crop=0.804xw:0.818xh;0.0952xw,0.0723xh&resize=1200:*",
+            "image": "public/cars/Maserati Granturismo.jpeg",
             "price": "$207,000"
         },
         {
@@ -47,417 +47,464 @@
             "Year": "1904",
             "Engine": "563-hp twin-turbo V-12.",
             "Transmission": "Eight-speed automatic and rear-wheel drive. ",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-rolls-royce-phantom-102-64bad70ba7661.jpg?crop=0.637xw:0.644xh;0.248xw,0.236xh&resize=1200:*",
+            "image": "public/cars/rolls royce cullinan.jpeg",
             "price": "$470,000"
         },
         {
-            "MakeId": 448,
             "MakeName": "TOYOTA",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Kiichiro Toyoda",
+            "Year": "1937",
+            "Engine": "1.8L I4 - 5.7L V8",
+            "Transmission": "Automatic / Manual",
+            "price": "$20,000 - $85,000",
+            "image": "public/cars/toyota tacoma.jpeg"
         },
         {
-            "MakeId": 449,
             "MakeName": "MERCEDES-BENZ",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Karl Benz, Gottlieb Daimler",
+            "Year": "1926",
+            "Engine": "2.0L I4 - 6.0L V12",
+            "Transmission": "9G-TRONIC Automatic",
+            "price": "$40,000 - $200,000",
+            "image": "public/cars/mercedes benz.jpeg"
         },
         {
-            "MakeId": 452,
             "MakeName": "BMW",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Franz Josef Popp",
+            "Year": "1916",
+            "Engine": "2.0L I4 - 6.6L V12",
+            "Transmission": "8-speed Automatic / Manual",
+            "price": "$40,000 - $160,000",
+            "image": "public/cars/bmw.jpeg"
         },
         {
-            "MakeId": 454,
             "MakeName": "BUGATTI",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Ettore Bugatti",
+            "Year": "1909",
+            "Engine": "8.0L Quad-Turbo W16",
+            "Transmission": "7-speed Dual-Clutch Automatic",
+            "price": "$1,900,000+",
+            "image": "public/cars/Batman Bugatti Chiron 🦇.jpeg"
         },
         {
-            "MakeId": 456,
             "MakeName": "MINI",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Alec Issigonis (BMC)",
+            "Year": "1959",
+            "Engine": "1.5L I3 - 2.0L I4",
+            "Transmission": "6-speed Manual / 7-speed Auto",
+            "price": "$25,000 - $40,000",
+            "image": "public/cars/Mini Cooper.jpeg"
         },
         {
-            "MakeId": 460,
             "MakeName": "FORD",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Henry Ford",
+            "Year": "1903",
+            "Engine": "1.0L I3 - 5.2L V8",
+            "Transmission": "10-speed Auto / Manual",
+            "price": "$20,000 - $80,000",
+            "image": "public/cars/ford.jpeg"
         },
         {
-            "MakeId": 464,
             "MakeName": "LINCOLN",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Henry M. Leland",
+            "Year": "1917",
+            "Engine": "2.0L I4 - 3.5L V6",
+            "Transmission": "8-speed Auto",
+            "price": "$45,000 - $100,000",
+            "image": "public/cars/lincoln.jpeg"
         },
         {
-            "MakeId": 465,
             "MakeName": "MERCURY",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Edsel Ford",
+            "Year": "1938",
+            "Engine": "Various V6/V8 (Discontinued in 2011)",
+            "Transmission": "Automatic",
+            "price": "$25,000 - $40,000 (historic)",
+            "image": "public/cars/1950 Mercury Eight V8.jpeg"
         },
         {
-            "MakeId": 466,
             "MakeName": "LOTUS",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Colin Chapman",
+            "Year": "1952",
+            "Engine": "1.8L I4 - 3.5L V6",
+            "Transmission": "Manual / Dual-Clutch",
+            "price": "$60,000 - $120,000",
+            "image": "public/cars/Lotus Exiege.jpeg"
         },
         {
-            "MakeId": 467,
             "MakeName": "CHEVROLET",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Louis Chevrolet, William C. Durant",
+            "Year": "1911",
+            "Engine": "1.5L I4 - 6.2L V8",
+            "Transmission": "6 to 10-speed Auto / Manual",
+            "price": "$25,000 - $100,000",
+            "image": "public/cars/Chevrolet Tahoe.jpeg"
         },
         {
-            "MakeId": 468,
             "MakeName": "BUICK",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "David Dunbar Buick",
+            "Year": "1899",
+            "Engine": "2.0L I4 - 3.6L V6",
+            "Transmission": "6 to 9-speed Automatic",
+            "price": "$28,000 - $55,000",
+            "image": "public/cars/1965 BUICK RIVIERA 2 DOOR HARDTOP.jpeg"
         },
         {
-            "MakeId": 469,
             "MakeName": "CADILLAC",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "William Murphy, Lemuel Bowen, Henry Leland",
+            "Year": "1902",
+            "Engine": "2.0L I4 - 6.2L V8",
+            "Transmission": "10-speed Automatic",
+            "price": "$45,000 - $100,000",
+            "image": "public/cars/Cadillac 2024 escalade.jpeg"
         },
         {
-            "MakeId": 470,
             "MakeName": "HOLDEN",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "James Alexander Holden",
+            "Year": "1856 (automotive: 1948)",
+            "Engine": "2.0L I4 - 6.2L V8",
+            "Transmission": "Manual / Automatic",
+            "price": "$30,000 - $70,000 (historic)",
+            "image": "public/cars/1972 Holden Premier.jpeg"
         },
         {
-            "MakeId": 471,
             "MakeName": "OPEL",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Adam Opel",
+            "Year": "1862 (cars since 1899)",
+            "Engine": "1.2L I3 - 2.0L I4",
+            "Transmission": "Manual / Automatic",
+            "price": "$20,000 - $45,000",
+            "image": "public/cars/1951 Opel Olympia.jpeg"
         },
         {
-            "MakeId": 472,
             "MakeName": "GMC",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "General Motors (originally Rapid Motor Vehicle Co.)",
+            "Year": "1911",
+            "Engine": "2.7L Turbo I4 - 6.6L V8",
+            "Transmission": "10-speed Automatic",
+            "price": "$35,000 - $85,000",
+            "image": "public/cars/GMC.jpeg"
         },
         {
-            "MakeId": 473,
             "MakeName": "MAZDA",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Jujiro Matsuda",
+            "Year": "1920",
+            "Engine": "2.0L I4 - 2.5L Turbo I4",
+            "Transmission": "Manual / 6-speed Automatic",
+            "price": "$22,000 - $45,000",
+            "image": "public/cars/mazda rx7.jpeg"
         },
         {
-            "MakeId": 474,
             "MakeName": "HONDA",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Soichiro Honda, Takeo Fujisawa",
+            "Year": "1948",
+            "Engine": "1.5L I4 - 2.0L Turbo / Hybrid",
+            "Transmission": "CVT / 6-speed Manual / Automatic",
+            "price": "$22,000 - $45,000",
+            "image": "public/cars/Honda City.jpeg"
         },
         {
-            "MakeId": 475,
             "MakeName": "ACURA",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Honda (Luxury Division)",
+            "Year": "1986",
+            "Engine": "2.0L Turbo I4 - 3.5L V6",
+            "Transmission": "10-speed Automatic / SH-AWD",
+            "price": "$35,000 - $60,000",
+            "image": "public/cars/2022 Acura MDX.jpeg"
         },
         {
-            "MakeId": 476,
             "MakeName": "DODGE",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "John & Horace Dodge",
+            "Year": "1900",
+            "Engine": "3.6L V6 - 6.2L Supercharged V8",
+            "Transmission": "8-speed Automatic",
+            "price": "$30,000 - $100,000",
+            "image": "public/cars/Dodge Challenger.jpeg"
         },
         {
-            "MakeId": 477,
             "MakeName": "CHRYSLER",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Walter Chrysler",
+            "Year": "1925",
+            "Engine": "3.6L V6",
+            "Transmission": "8-speed Automatic",
+            "price": "$35,000 - $55,000",
+            "image": "public/cars/1968 Chrysler New Yorker 4 Door hardtop.jpeg"
         },
         {
-            "MakeId": 478,
             "MakeName": "NISSAN",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Masujiro Hashimoto",
+            "Year": "1933",
+            "Engine": "1.6L I4 - 3.8L Twin-Turbo V6",
+            "Transmission": "CVT / 6-speed Manual / Automatic",
+            "price": "$20,000 - $120,000",
+            "image": "public/cars/GTR.jpeg"
         },
         {
-            "MakeId": 480,
             "MakeName": "INFINITI",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Nissan (Luxury Division)",
+            "Year": "1989",
+            "Engine": "2.0L Turbo I4 - 3.0L Twin-Turbo V6",
+            "Transmission": "7-speed / 9-speed Automatic",
+            "price": "$35,000 - $70,000",
+            "image": "public/cars/INFINITI.jpeg"
         },
         {
-            "MakeId": 481,
             "MakeName": "MITSUBISHI",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Yataro Iwasaki",
+            "Year": "1870 (autos since 1917)",
+            "Engine": "1.2L I3 - 2.4L I4",
+            "Transmission": "CVT / Manual",
+            "price": "$18,000 - $35,000",
+            "image": "public/cars/Mitsubishi lancer gts.jpeg"
         },
         {
-            "MakeId": 482,
             "MakeName": "VOLKSWAGEN",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "German Labour Front",
+            "Year": "1937",
+            "Engine": "1.4L I4 - 2.5L I5 / Electric",
+            "Transmission": "DSG Dual-Clutch / Manual / Automatic",
+            "price": "$25,000 - $50,000",
+            "image": "public/cars/1967beetle.jpeg"
         },
         {
-            "MakeId": 485,
             "MakeName": "VOLVO",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Assar Gabrielsson, Gustaf Larson",
+            "Year": "1927",
+            "Engine": "2.0L Turbocharged I4 (mild-hybrid, plug-in hybrid)",
+            "Transmission": "8-speed Automatic",
+            "price": "$40,000 - $70,000",
+            "image": "public/cars/Volvo.jpeg"
         },
         {
-            "MakeId": 492,
             "MakeName": "FIAT",
-            "Founder": "Lionel Martin anc Robert Bamford",
-            "Year": "1913",
-            "Engine": "a twin-turbocharged 4.0-liter V-8 or a twin-turbocharged 5.2-liter V-12.",
-            "Transmission": "Eight-speed automatic transmission",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/2020-aston-martin-db11-amr-106-1589946284.jpg?crop=0.840xw:0.709xh;0.0865xw,0.214xh&resize=1200:*",
-            "price": "$220,086"
+            "Founder": "Giovanni Agnelli",
+            "Year": "1899",
+            "Engine": "0.9L I2 - 1.4L I4",
+            "Transmission": "Manual / Dualogic / Automatic",
+            "price": "$15,000 - $35,000",
+            "image": "public/cars/fiat.jpeg"
         },
         {
-            "MakeId": 493,
             "MakeName": "ALFA ROMEO",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Alexandre Darracq, Nicola Romeo",
+            "Year": "1910",
+            "Engine": "1.3L I4 - 2.9L V6 Twin-Turbo",
+            "Transmission": "6-speed Manual / 8-speed Auto",
+            "price": "$40,000 - $85,000",
+            "image": "public/cars/1960 Alfa Romeo Giulietta Spider.jpeg"
         },
         {
-            "MakeId": 497,
             "MakeName": "LANCIA",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Vincenzo Lancia",
+            "Year": "1906",
+            "Engine": "1.2L - 2.0L I4 (historic and modern)",
+            "Transmission": "Manual / Automatic",
+            "price": "$20,000 - $45,000",
+            "image": "public/cars/1966 Lancia Flaminia GT 2_5 3C Coupe.jpeg"
         },
         {
-            "MakeId": 498,
             "MakeName": "HYUNDAI",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Chung Ju-Yung",
+            "Year": "1967",
+            "Engine": "1.6L I4 - 3.8L V6 / Electric",
+            "Transmission": "CVT / Manual / 8-speed Auto",
+            "price": "$20,000 - $60,000",
+            "image": "public/cars/2022 Hyundai Tucson.jpeg"
         },
         {
-            "MakeId": 499,
             "MakeName": "KIA",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Kim Chul-ho",
+            "Year": "1944 (autos since 1974)",
+            "Engine": "1.6L I4 - 3.3L V6 / Electric",
+            "Transmission": "IVT / Manual / 8-speed Auto",
+            "price": "$19,000 - $55,000",
+            "image": "public/cars/Kia Sportage 2020.jpeg"
         },
         {
-            "MakeId": 502,
             "MakeName": "LAMBORGHINI",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Ferruccio Lamborghini",
+            "Year": "1963",
+            "Engine": "5.2L V10 - 6.5L V12",
+            "Transmission": "7-speed ISR Automated Manual",
+            "price": "$200,000 - $500,000+",
+            "image": "public/cars/Lamborghini.jpeg"
         },
         {
-            "MakeId": 504,
             "MakeName": "SMART",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Mercedes-Benz & Swatch",
+            "Year": "1994",
+            "Engine": "0.9L Turbo I3 / Electric",
+            "Transmission": "6-speed Automated Manual",
+            "price": "$15,000 - $25,000",
+            "image": "public/cars/Des Black Roadster.jpeg"
         },
         {
-            "MakeId": 509,
             "MakeName": "SUZUKI",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Michio Suzuki",
+            "Year": "1909 (autos since 1955)",
+            "Engine": "0.8L I3 - 1.5L I4",
+            "Transmission": "Manual / CVT / Automatic",
+            "price": "$10,000 - $25,000",
+            "image": "public/cars/Suzuki swift.jpeg"
         },
         {
-            "MakeId": 515,
             "MakeName": "LEXUS",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Toyota (Luxury Division)",
+            "Year": "1989",
+            "Engine": "2.0L Turbo I4 - 5.0L V8 / Hybrid",
+            "Transmission": "8-speed Auto / CVT",
+            "price": "$40,000 - $90,000",
+            "image": "public/cars/Lexus lx570 black.jpeg"
         },
         {
-            "MakeId": 523,
             "MakeName": "SUBARU",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Kenji Kita (Fuji Heavy Industries)",
+            "Year": "1953",
+            "Engine": "2.0L - 2.4L Flat-4 (Boxer)",
+            "Transmission": "6-speed Manual / CVT",
+            "price": "$25,000 - $40,000",
+            "image": "public/cars/SUbaru forester.jpeg"
         },
         {
-            "MakeId": 533,
             "MakeName": "MAYBACH",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Wilhelm Maybach, Karl Maybach",
+            "Year": "1909",
+            "Engine": "4.0L V8 - 6.0L V12",
+            "Transmission": "9-speed Automatic",
+            "price": "$170,000 - $300,000+",
+            "image": "public/cars/Mercedes Maybach.jpeg"
         },
         {
-            "MakeId": 536,
             "MakeName": "PONTIAC",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "General Motors",
+            "Year": "1926",
+            "Engine": "2.0L I4 - 6.0L V8 (historic)",
+            "Transmission": "Manual / Automatic",
+            "price": "$25,000 - $40,000 (historic)",
+            "image": "public/cars/Pontiac Firebird.jpeg"
         },
         {
-            "MakeId": 539,
-            "MakeName": "MORGAN",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "MakeName": "McLaren",
+            "Founder": "Bruce McLaren",
+            "Year": "1963",
+            "Engine": "3.8L - 4.0L Twin-Turbo V8 (some hybrids use electric assist)",
+            "Transmission": "7-speed Dual-Clutch Automatic",
+            "price": "$200,000 - $2,000,000+",
+            "image": "public/cars/Mc Laren .jpeg"
         },
         {
-            "MakeId": 542,
             "MakeName": "ISUZU",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Yoshisuke Aikawa (as Tokyo Gas & Electric Industrial Co.)",
+            "Year": "1916",
+            "Engine": "1.9L - 3.0L Diesel",
+            "Transmission": "Manual / Automatic",
+            "price": "$20,000 - $35,000",
+            "image": "public/cars/isuzu.jpeg"
         },
         {
-            "MakeId": 565,
             "MakeName": "TRIUMPH",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Siegfried Bettmann",
+            "Year": "1885 (cars: 1923–1984)",
+            "Engine": "0.9L - 2.5L I4 / V8 (historic)",
+            "Transmission": "Manual",
+            "price": "$15,000 - $30,000 (classic)",
+            "image": "public/cars/1967 _ Triumph TR 4A.jpeg"
         },
         {
-            "MakeId": 572,
             "MakeName": "SAAB",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Svenska Aeroplan AB (Swedish Aircraft Company)",
+            "Year": "1945 (autos)",
+            "Engine": "1.3L - 2.8L Turbocharged I4/V6 (historic)",
+            "Transmission": "Manual / Automatic",
+            "price": "$25,000 - $45,000 (discontinued)",
+            "image": "public/cars/Saab 9-5 (400hp).jpeg"
         },
         {
-            "MakeId": 582,
             "MakeName": "AUDI",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "August Horch",
+            "Year": "1909",
+            "Engine": "2.0L I4 - 5.2L V10",
+            "Transmission": "S tronic / Tiptronic / Manual",
+            "price": "$40,000 - $150,000",
+            "image": "public/cars/Audi.jpeg"
         },
         {
-            "MakeId": 583,
             "MakeName": "BENTLEY",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "W.O. Bentley",
+            "Year": "1919",
+            "Engine": "4.0L V8 - 6.0L W12",
+            "Transmission": "8-speed Automatic",
+            "price": "$200,000 - $350,000",
+            "image": "public/cars/Bentley Flying Spur S ❤️_🔥.jpeg"
         },
         {
-            "MakeId": 584,
             "MakeName": "PORSCHE",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Ferdinand Porsche",
+            "Year": "1931",
+            "Engine": "2.0L H4 - 4.0L Flat-6 / Twin-Turbo V8",
+            "Transmission": "PDK Dual-Clutch / Manual",
+            "price": "$70,000 - $250,000+",
+            "image": "public/cars/Porsche Macan .jpeg"
         },
         {
-            "MakeId": 603,
             "MakeName": "FERRARI",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Enzo Ferrari",
+            "Year": "1939 (first car in 1947)",
+            "Engine": "3.0L V6 - 6.5L V12 (NA or Hybrid)",
+            "Transmission": "8-speed Dual-Clutch Automatic",
+            "price": "$250,000 - $500,000+",
+            "image": "public/cars/LA Ferrari.jpeg"
         },
         {
-            "MakeId": 606,
             "MakeName": "AM GENERAL",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "American Motors Corporation (AMC)",
+            "Year": "1971",
+            "Engine": "6.2L - 6.5L V8 Diesel (HMMWV & Hummer H1)",
+            "Transmission": "Automatic",
+            "price": "$100,000+ (military-grade and limited civilian use)",
+            "image": "public/cars/1991 AM General.jpeg"
         },
         {
-            "MakeId": 629,
             "MakeName": "CREATIVE COACHWORKS",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "N/A (custom coachbuilder)",
+            "Year": "Unknown",
+            "Engine": "Varies by conversion",
+            "Transmission": "Varies",
+            "price": "Custom Pricing (Varies)",
+            "image": "public/cars/Brooklyn Coachworks Land Rover Series One 107_.jpeg"
         },
         {
-            "MakeId": 771,
             "MakeName": "AC PROPULSION",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Alan Cocconi",
+            "Year": "1992",
+            "Engine": "Electric Motor (150kW+)",
+            "Transmission": "Single-speed Electric",
+            "price": "$60,000 - $100,000+ (concepts/prototypes)",
+            "image": "public/cars/AC Propulsion TZero.jpeg"
         },
         {
-            "MakeId": 847,
             "MakeName": "DAIHATSU",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Hatsudoki Seizo Co. Ltd.",
+            "Year": "1907",
+            "Engine": "0.6L - 1.5L I3/I4",
+            "Transmission": "CVT / Manual",
+            "price": "$10,000 - $25,000",
+            "image": "public/cars/1977-81 Daihatsu Charade.jpeg"
         },
         {
-            "MakeId": 972,
             "MakeName": "FALCON",
-            "VehicleTypeId": 2,
-            "VehicleTypeName": "Passenger Car"
+            "Founder": "Ford Australia (also various kit car brands)",
+            "Year": "1960 (Ford Falcon)",
+            "Engine": "2.3L I4 - 5.4L V8 (varies)",
+            "Transmission": "Manual / Automatic",
+            "price": "$25,000 - $60,000",
+            "image": "public/cars/1962 Ford Falcon Futura.jpeg"
         },
         {
             "MakeId": 986,
             "MakeName": "EV INNOVATIONS",
             "VehicleTypeId": 2,
+            "image":"cars/EV innovations.jpeg",
             "VehicleTypeName": "Passenger Car"
         },
         {
